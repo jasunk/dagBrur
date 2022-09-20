@@ -145,6 +145,7 @@ img:hover{
         border:0 ;
     }
     #hoved{
+        gap:1px;
         max-width:90vw;
         grid-template-columns:  repeat(3, 1fr) ;
         grid-template-rows: repeat(6, 1fr);
